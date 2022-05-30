@@ -1,0 +1,30 @@
+id: I84946C84
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:10:15.180295'
+last_modified: '2022-05-31T05:10:15.180301'
+parser: null
+source_metadata:
+  title: Longsal Nyingpo Series
+  language: bo
+  description: 'Texts by and about the treasure-revealer Longsal Nyingpo (klong gsal
+    snying po, 1625–1692):'
+  volume:
+    f5C2B:
+      title: Maṇḍala Offering from Longsal Dorje Nyingpo
+      base_file: f5C2B.txt
+      order: 1
+      parent: Offering
+    f46BE:
+      title: 'The Essence of Benefit and Happiness: A Method for Saving Lives'
+      base_file: f46BE.txt
+      order: 2
+      parent: Saving Lives
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
